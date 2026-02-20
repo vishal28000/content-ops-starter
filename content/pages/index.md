@@ -8,11 +8,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >+
-
-      Guidify India helps students confidently choose streams, degrees, and
+    text: >
+      GuidifyIndia helps students confidently choose streams, degrees, and
       careers through personalized guidance and expert support.
-
     actions:
       - label: Free Consultation / Inquiry
         altText: ''
