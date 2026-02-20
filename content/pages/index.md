@@ -14,7 +14,7 @@ sections:
       careers through personalized guidance and expert support.
 
     actions:
-      - label: Get started
+      - label: Free Consultation / Inquiry
         altText: ''
         url: /
         showIcon: false
