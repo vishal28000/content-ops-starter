@@ -484,7 +484,7 @@ sections:
           "Dhanore sir helped me realize how important college selection and
           specialization are. Their guidance made my Engineering journey so much
           easier to plan."
-        tagline: Testimonial 4
+        tagline: ''
         subtitle: Maria Walters, Company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
