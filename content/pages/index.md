@@ -455,7 +455,7 @@ sections:
           I understood my strengths and chose a branch that suits my passion and
           future goals!"
         tagline: ''
-        subtitle: Maria Walters, Company
+        subtitle: Akshay Shinde
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
