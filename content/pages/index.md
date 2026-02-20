@@ -399,7 +399,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: ''
     items:
       - title: >-
           "I was so confused after my boards, but Guidify helped me find the
