@@ -80,6 +80,13 @@
             "url": "/",
             "icon": "mail",
             "elementId": ""
+        },
+        {
+            "type": "Social",
+            "altText": "LinkedIn link",
+            "url": "/",
+            "icon": "linkedin",
+            "elementId": ""
         }
     ],
     "legalLinks": [
