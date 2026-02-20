@@ -7,7 +7,7 @@ sections:
       text: Clear Your Career Confusion. Choose the Right Path.
       color: text-dark
       type: TitleBlock
-    subtitle: Guidify India
+    subtitle: ''
     text: >+
 
       Guidify India helps students confidently choose streams, degrees, and
