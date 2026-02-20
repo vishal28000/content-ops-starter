@@ -76,6 +76,13 @@
         },
         {
             "type": "Social",
+            "altText": "Facebook link",
+            "url": "/",
+            "icon": "facebook",
+            "elementId": ""
+        },
+        {
+            "type": "Social",
             "altText": "Email icon",
             "url": "/",
             "icon": "mail",
