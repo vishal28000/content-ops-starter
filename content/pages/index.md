@@ -52,6 +52,8 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+        margin:
+          - mt-5
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
