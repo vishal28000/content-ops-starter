@@ -395,7 +395,7 @@ sections:
           "I was so confused after my boards, but Guidify helped me find the
           right path! Their career counseling gave me confidence and clarity.
           Highly recommended!"
-        tagline: Testimonial 1
+        tagline: ''
         subtitle: Shital Shirsath
         text: |
           Class 12 Student, Pune
