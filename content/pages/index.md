@@ -425,7 +425,7 @@ sections:
           options. As a parent, I am now more aware and supportive of my child's
           goals"
         tagline: Testimonial 2
-        subtitle: John Doe, Company
+        subtitle: Sumit Kumar
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
