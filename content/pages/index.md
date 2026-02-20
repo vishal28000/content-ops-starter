@@ -396,7 +396,7 @@ sections:
           right path! Their career counseling gave me confidence and clarity.
           Highly recommended!"
         tagline: Testimonial 1
-        subtitle: Maria Walters, Company
+        subtitle: "Shital Shirsath\_Class 12 Student, Pune"
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
