@@ -481,8 +481,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          "Dhanore sir helped me realize how important college selection and
+          specialization are. Their guidance made my Engineering journey so much
+          easier to plan."
         tagline: Testimonial 4
         subtitle: Maria Walters, Company
         text: >-
