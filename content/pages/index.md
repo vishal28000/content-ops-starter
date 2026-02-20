@@ -426,10 +426,8 @@ sections:
           goals"
         tagline: Testimonial 2
         subtitle: Sumit Kumar
-        text: >+
-          "The team at Guidify provided detailed insights into various career
-          options. As a parent, I am now more aware and supportive of my child's
-          goals"
+        text: |+
+          Parent of a Student
 
         image:
           url: /images/person-placeholder-light.png
