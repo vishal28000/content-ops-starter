@@ -426,10 +426,11 @@ sections:
           goals"
         tagline: Testimonial 2
         subtitle: Sumit Kumar
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          "The team at Guidify provided detailed insights into various career
+          options. As a parent, I am now more aware and supportive of my child's
+          goals"
+
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
