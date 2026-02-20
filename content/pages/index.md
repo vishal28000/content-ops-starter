@@ -454,7 +454,7 @@ sections:
           "I was lost between Computer Science and Mech Engg. Thanks to Guidify,
           I understood my strengths and chose a branch that suits my passion and
           future goals!"
-        tagline: Testimonial 3
+        tagline: ''
         subtitle: Maria Walters, Company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
