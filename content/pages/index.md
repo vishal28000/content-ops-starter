@@ -421,8 +421,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          "The team at Guidify provided detailed insights into various career
+          options. As a parent, I am now more aware and supportive of my child's
+          goals"
         tagline: Testimonial 2
         subtitle: John Doe, Company
         text: >-
