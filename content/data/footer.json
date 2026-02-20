@@ -62,6 +62,13 @@
     "socialLinks": [
         {
             "type": "Social",
+            "altText": "Instagram link",
+            "url": "/",
+            "icon": "instagram",
+            "elementId": ""
+        },
+        {
+            "type": "Social",
             "altText": "YouTube icon",
             "url": "/",
             "icon": "youtube",
