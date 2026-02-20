@@ -485,7 +485,7 @@ sections:
           specialization are. Their guidance made my Engineering journey so much
           easier to plan."
         tagline: ''
-        subtitle: Maria Walters, Company
+        subtitle: Divyesh Rathod
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
