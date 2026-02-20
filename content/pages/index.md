@@ -402,8 +402,9 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          "I was so confused after my boards, but Guidify helped me find the
+          right path! Their career counseling gave me confidence and clarity.
+          Highly recommended!"
         tagline: Testimonial 1
         subtitle: Maria Walters, Company
         text: >-
